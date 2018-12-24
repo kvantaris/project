@@ -1,2 +1,8 @@
 Library/
 Packages/
+Temp/
+obj/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Example project.sln
+.vs/
